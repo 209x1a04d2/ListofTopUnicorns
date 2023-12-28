@@ -1,6 +1,6 @@
 # List of Top Unicorns
 Startup Name	Industry	Founding Year	Unicorn Entry Year	Profit/Loss FY22	Current Valuation	Acquisitions	Status
-Zepto	Quick Commerce	2021	2023	-$47.1 Million	$1.4 Billion	-	Private
+Zepto	Quick Commerce	2021	2023	-$47.1 Million	$1.4 Billion	-	Private </br>
 Molbio Diagnostics	HealthTech, MedTech	2010	2022	NA	$1.5 Billion	1	Private
 Tata 1mg	HealthTech	2015	2022	-$65 Million	$1.25 Billion	-	Acquired
 Shiprocket	Logistics	2017	2022	-$11.67 Million	$1.3 Billion	5	Private
